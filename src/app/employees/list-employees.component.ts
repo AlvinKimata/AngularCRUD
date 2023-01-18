@@ -27,6 +27,7 @@ export class ListEmployeesComponent implements OnInit {
     department: 'HR',
     isActive: true,
     photoPath: 'assets/images/mary.png'
+  }
   ,
   {
     id: 3,
